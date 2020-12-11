@@ -1,0 +1,19 @@
+html,body,div,p,ul,li,form,input,button{margin:0;padding:0;list-style:none;font-family:'微软雅黑';}
+input{outline:none; overflow:hidden; height:1.5rem; line-height: 1.5rem;}
+body{background: url(/style/img/bg_body.jpg) repeat;}
+.main{width:95%;max-width:800px; margin:0 auto;}
+.info{width:100%;text-align:center; margin:20px 0 10px 0;}
+.search{width:100%;text-align:center; line-height:2rem;}
+#sear{width:90%; max-width:230px; height:2rem;}
+input[type="checkbox"]{display: inline;vertical-align:middle;}
+#list{width:90%; max-width:800px; text-align: center; margin-top:10px;}
+li{width:100%; line-height: 1.5rem; height:2rem; vertical-align:middle;}
+form{width:100%; line-height: 1.5rem;}
+input[name="name"]{width:18%;}
+input[name="pwd"]{width:10%;}
+input[name="tel"]{width:15%;}
+input[name="date"]{width:20%;}
+input[type="button"]{width:10%; text-align: center;}
+.but{width:5%;}
+
+.page_list{width: 100%; text-align: center;}
